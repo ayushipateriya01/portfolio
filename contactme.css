@@ -1,0 +1,14 @@
+form{
+    justify-content: center;
+    display: flex;
+    padding: 15px;
+  }
+  form input{
+    align-items: center;
+    word-spacing: 2px;
+
+  }
+  fieldset{
+    background-color: beige;
+    padding: 20px;
+  }
